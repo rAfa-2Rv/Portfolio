@@ -1,4 +1,39 @@
 img {
-    width: 180px;
+    width: 190px;
     height: 200px;
+    margin-left: 50px;
 }
+
+body {
+    background-color: #274c77;
+    
+}
+h1 {
+    margin-top: 50px;
+    margin-left: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #cecfc7;
+}
+h3 {
+    color: #b8cdf8;
+    margin-left: 50px;
+}
+
+ul {
+    color: #b8cdf8;
+    border-bottom: 2px solid #b8cdf8;
+}
+
+.fa-regular, .fa-brands, .fa-solid {
+    color: #cecfc7;
+    margin-left: 50px;
+    margin-top: 150px;
+    border-bottom: 1px solid #182236;
+}
+
+footer{
+    color: black;
+    margin-left: 50px;
+    margin-top: 20px;
+
+}    
